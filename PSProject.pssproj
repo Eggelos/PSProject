@@ -28,6 +28,13 @@
   </PropertyGroup>
   <ItemGroup />
   <ItemGroup>
+    <Compile Include="Display hierarchy.ps1" />
+    <Compile Include="Enable-RD.ps1" />
+    <Compile Include="Function-Template.ps1" />
+    <Compile Include="Get-ComputerStatus.ps1" />
+    <Compile Include="Get-DetailedSystemInfo.ps1" />
+    <Compile Include="Get-Disk.ps1" />
+    <Compile Include="Get-DiskInventory.ps1" />
     <Compile Include="Get-HostIP.ps1" />
     <Compile Include="Script.ps1" />
   </ItemGroup>
